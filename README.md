@@ -17,6 +17,7 @@ The function being optimized:
 \[
 f(x_1, x_2) = (x_1^2 + x_2 - 11)^2 + (2x_1 + x_2^2 - 7)^2
 \]
+
 Its **gradient**:
 \[
 \nabla f(x_1, x_2) = \left( 4x_1^3 + 4x_1x_2 - 36x_1 + 4x_2^2 - 28, \quad 4x_2^3 + 2x_2 + 8x_1x_2 \right)
